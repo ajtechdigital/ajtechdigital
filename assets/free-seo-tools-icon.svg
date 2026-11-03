@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Free SEO and AI search tools by Ajay Padhy">
+  <rect width="512" height="512" rx="112" fill="#0E0E0E"/>
+  <circle cx="222" cy="222" r="108" fill="none" stroke="#FFFFFF" stroke-width="36"/>
+  <line x1="300" y1="300" x2="404" y2="404" stroke="#C1121F" stroke-width="48" stroke-linecap="round"/>
+  <path d="M222 160 L238 206 L284 222 L238 238 L222 284 L206 238 L160 222 L206 206 Z" fill="#E5283A"/>
+</svg>
